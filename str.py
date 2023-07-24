@@ -1,4 +1,4 @@
-# Powered by @Darkranger00 | Tele:- @aadillllll
+# Powered by @Darkranger00 | Tele:- @ll_itz_bad_abhi_ll
 # Dear Pero ppls Plish Don't remove this line from here🌚
 # created by by only you
 # Kangers ki mkc
@@ -18,7 +18,7 @@ Add Me There And I will Ruined Group 👻!__
 **My lib's Info!**
 ❍ Python Version » `{}`
 ❍ Telethon Version » `{}`
-❍ Code Owner » [Aadil](https://t.me/aadillllll)
+❍ Code Owner » [Abhi](https://t.me/ll_itz_bad_abhi_ll)
 
 Type /help For Commands!
 """
@@ -44,5 +44,5 @@ __Here is the help menu__:
 ❅ /leave - To leave group.
 ❅ /restart - To restart the bot.
 
-❍ Facing any kind of issue then just join @crushbot_support and ask there!!
+❍ Facing any kind of issue then just join @iconic_botshub and ask there!!
 """
